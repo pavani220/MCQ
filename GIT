@@ -1,0 +1,799 @@
+1. What is Git?
+A) A version control system
+B) A file system
+C) A text editor
+D) A programming language
+
+Answer: A) A version control system
+
+2. What is the purpose of a commit in Git?
+A) To initialize a repository
+B) To save changes to the local repository
+C) To clone a repository
+D) To upload changes to a remote repository
+
+Answer: B) To save changes to the local repository
+
+3. Which command is used to create a new Git repository?
+A) git create
+B) git new
+C) git init
+D) git start
+
+Answer: C) git init
+
+4. Which command is used to check the status of the Git repository?
+A) git log
+B) git status
+C) git show
+D) git info
+
+Answer: B) git status
+
+5. What does git clone do?
+A) Copies a Git repository
+B) Deletes a Git repository
+C) Creates a new branch
+D) Stages files for commit
+
+Answer: A) Copies a Git repository
+
+6. Which command is used to stage changes for commit in Git?
+A) git add
+B) git commit
+C) git push
+D) git update
+
+Answer: A) git add
+
+7. Which command is used to push commits to a remote repository?
+A) git pull
+B) git commit
+C) git push
+D) git clone
+
+Answer: C) git push
+
+8. Which command is used to pull changes from a remote repository?
+A) git fetch
+B) git pull
+C) git push
+D) git merge
+
+Answer: B) git pull
+
+9. Which of the following files are used by Git to track changes?
+A) .gitignore
+B) .gitmodules
+C) .gitconfig
+D) .git directory
+
+Answer: D) .git directory
+
+10. Which Git command is used to list all branches in the repository?
+A) git branch
+B) git list
+C) git show
+D) git branches
+
+Answer: A) git branch
+
+11. Which of the following commands is used to switch between Git branches?
+A) git change
+B) git checkout
+C) git switch
+D) git move
+
+Answer: B) git checkout
+
+12. What does git merge do?
+A) Merges two remote repositories
+B) Merges two local branches
+C) Merges commits from one branch into another
+D) Deletes a branch
+
+Answer: C) Merges commits from one branch into another
+
+13. Which Git command is used to remove files from the staging area?
+A) git remove
+B) git reset
+C) git delete
+D) git undo
+
+Answer: B) git reset
+
+14. What is a "branch" in Git?
+A) A snapshot of the repository
+B) A copy of the repository
+C) A separate line of development
+D) A commit history
+
+Answer: C) A separate line of development
+
+15. Which command is used to delete a Git branch?
+A) git remove
+B) git branch -d
+C) git delete branch
+D) git drop
+
+Answer: B) git branch -d
+
+16. What is the Git command to view the commit history of a repository?
+A) git log
+B) git history
+C) git show
+D) git commits
+
+Answer: A) git log
+
+17. What does the command git diff show?
+A) The difference between two branches
+B) The difference between the working directory and the index
+C) The difference between two commits
+D) All of the above
+
+Answer: D) All of the above
+
+18. What is the function of the .gitignore file?
+A) To keep track of changes to ignored files
+B) To specify files that Git should not track
+C) To configure Git settings
+D) To track submodules
+
+Answer: B) To specify files that Git should not track
+
+19. Which of the following commands is used to undo a commit in Git?
+A) git undo
+B) git revert
+C) git rollback
+D) git reset
+
+Answer: B) git revert
+
+20. What does the command git pull --rebase do?
+A) Merges the remote changes into the local branch
+B) Fetches and rebases local changes on top of the remote branch
+C) Deletes remote commits
+D) Forces a merge of remote branches
+
+Answer: B) Fetches and rebases local changes on top of the remote branch
+
+21. What is the command to show the changes between two commits?
+A) git compare
+B) git diff
+C) git merge
+D) git log
+
+Answer: B) git diff
+
+22. Which command is used to view the differences between the working directory and the staging area?
+A) git diff
+B) git log
+C) git status
+D) git show
+
+Answer: A) git diff
+
+23. What does the git commit --amend command do?
+A) It deletes the previous commit
+B) It updates the previous commit with new changes
+C) It creates a new branch from the last commit
+D) It merges two commits
+
+Answer: B) It updates the previous commit with new changes
+
+24. What is the purpose of the .gitmodules file?
+A) To configure Git settings
+B) To define the submodules used by a Git project
+C) To store user credentials
+D) To ignore specific files from being tracked
+
+Answer: B) To define the submodules used by a Git project
+
+25. Which of the following commands is used to revert a commit in Git?
+A) git reset
+B) git revert
+C) git remove
+D) git rollback
+
+Answer: B) git revert
+
+26. Which Git command is used to fetch the latest changes from a remote repository without merging them?
+A) git fetch
+B) git pull
+C) git push
+D) git clone
+
+Answer: A) git fetch
+
+27. What does git reset --hard do?
+A) It cancels all uncommitted changes and resets the working directory to the last commit
+B) It removes a specific commit
+C) It un-stages the staged files
+D) It merges two branches
+
+Answer: A) It cancels all uncommitted changes and resets the working directory to the last commit
+
+28. Which command is used to initialize a new Git repository?
+A) git create
+B) git new
+C) git init
+D) git start
+
+Answer: C) git init
+
+29. What does the command git show <commit> display?
+A) The changes made in a commit
+B) The commit message only
+C) A list of all files in a commit
+D) The content of the commit hash
+
+Answer: A) The changes made in a commit
+
+30. Which command shows the current branch?
+A) git current
+B) git branch
+C) git status
+D) git show
+
+Answer: B) git branch
+
+31. What happens when you run git push origin master?
+A) It pushes changes from the master branch to the origin repository
+B) It fetches the changes from the origin repository
+C) It creates a new remote repository
+D) It deletes the master branch from the local repository
+
+Answer: A) It pushes changes from the master branch to the origin repository
+
+32. Which command is used to discard changes in the working directory in Git?
+A) git reset
+B) git checkout
+C) git revert
+D) git discard
+
+Answer: B) git checkout
+
+33. What is the command to view the history of a specific file in Git?
+A) git file-history
+B) git log <file>
+C) git show <file>
+D) git status <file>
+
+Answer: B) git log <file>
+
+34. What does git fetch do?
+A) Downloads changes from the remote repository but does not merge them into the local branch
+B) Downloads changes and merges them into the local branch
+C) Pushes local changes to the remote repository
+D) Deletes files from the local repository
+
+Answer: A) Downloads changes from the remote repository but does not merge them into the local branch
+
+35. Which of the following is NOT a valid Git status?
+A) staged
+B) untracked
+C) committed
+D) merged
+
+Answer: D) merged
+
+36. Which of the following is the correct way to create a new Git branch?
+A) git create branch
+B) git branch <branch_name>
+C) git new branch <branch_name>
+D) git make branch <branch_name>
+
+Answer: B) git branch <branch_name>
+
+37. What is the purpose of git stash?
+A) To save changes that are not ready for commit
+B) To merge two branches
+C) To delete files from the repository
+D) To add changes to the staging area
+
+Answer: A) To save changes that are not ready for commit
+
+38. Which Git command is used to discard all changes and restore the working directory?
+A) git reset --hard
+B) git revert
+C) git undo
+D) git commit --amend
+
+Answer: A) git reset --hard
+
+39. Which of the following Git commands is used to rename a file in the repository?
+A) git rename
+B) git mv
+C) git change
+D) git rename-file
+
+Answer: B) git mv
+
+40. Which Git command is used to apply stashed changes?
+A) git stash apply
+B) git stash save
+C) git stash pop
+D) git stash load
+
+Answer: A) git stash apply
+
+41. What does git reset --soft do?
+A) It resets the index and working directory to the last commit
+B) It only resets the index, leaving the working directory unchanged
+C) It resets the working directory and index to a specific commit
+D) It removes the last commit
+
+Answer: B) It only resets the index, leaving the working directory unchanged
+
+42. Which Git command is used to check the differences between two commits?
+A) git diff
+B) git compare
+C) git show
+D) git log
+
+Answer: A) git diff
+
+43. Which command is used to create a new tag in Git?
+A) git create tag
+B) git tag <tag_name>
+C) git new tag
+D) git add tag
+
+Answer: B) git tag <tag_name>
+
+44. Which command would you use to display the history of a specific branch?
+A) git log <branch_name>
+B) git branch <branch_name>
+C) git history <branch_name>
+D) git show <branch_name>
+
+Answer: A) git log <branch_name>
+
+45. What is the purpose of the git config command?
+A) To configure the remote repository URL
+B) To configure global and local settings for Git
+C) To view commit history
+D) To create a new branch
+
+Answer: B) To configure global and local settings for Git
+
+46. What is the default name of the first branch in a new Git repository?
+A) master
+B) main
+C) root
+D) develop
+
+Answer: A) master
+
+47. What is the difference between git pull and git fetch?
+A) git fetch only updates the local repository without merging changes, while git pull merges changes as well
+B) git pull updates the local repository and fetches remote changes without merging them
+C) Both commands perform the same action
+D) git pull fetches changes and git fetch merges them
+
+Answer: A) git fetch only updates the local repository without merging changes, while git pull merges changes as well
+
+48. What does the git rm command do?
+A) Removes files from the staging area
+B) Removes files from the working directory and stages them for deletion
+C) Removes a file from the commit history
+D) Removes a branch from the local repository
+
+Answer: B) Removes files from the working directory and stages them for deletion
+
+49. What does git cherry-pick do?
+A) Merges changes from one branch to another
+B) Applies a commit from one branch to another
+C) Resolves conflicts between branches
+D) Deletes a commit from history
+
+Answer: B) Applies a commit from one branch to another
+
+50. How can you rename a branch in Git?
+A) git branch -rename <new_branch_name>
+B) git branch -m <new_branch_name>
+C) git branch rename <new_branch_name>
+D) git branch -name <new_branch_name>
+
+Answer: B) git branch -m <new_branch_name>
+
+51. Which command can be used to show the difference between the staged and unstaged changes?
+A) git diff
+B) git status
+C) git log
+D) git compare
+
+Answer: A) git diff
+
+52. What does git merge --no-ff do?
+A) Merges branches and keeps the commit history intact
+B) Forces a fast-forward merge
+C) Deletes the branch after merging
+D) Creates a new commit even if the merge is a fast-forward
+
+Answer: D) Creates a new commit even if the merge is a fast-forward
+
+53. Which Git command is used to view the differences between two branches?
+A) git diff <branch1> <branch2>
+B) git compare <branch1> <branch2>
+C) git merge <branch1> <branch2>
+D) git status <branch1> <branch2>
+
+Answer: A) git diff <branch1> <branch2>
+
+54. Which of the following Git commands can be used to see the status of your working directory?
+A) git status
+B) git update
+C) git info
+D) git track
+
+Answer: A) git status
+
+55. Which of the following Git commands is used to initialize a new Git repository?
+A) git start
+B) git init
+C) git create
+D) git open
+
+Answer: B) git init
+
+56. Which of the following command is used to apply changes stored in the stash?
+A) git stash pop
+B) git stash apply
+C) git stash apply changes
+D) Both A and B
+
+Answer: D) Both A and B
+
+57. What happens when you run git push origin <branch>?
+A) It uploads the specified branch to the remote repository
+B) It downloads changes from the remote repository
+C) It creates a new branch in the local repository
+D) It deletes the branch from the remote repository
+
+Answer: A) It uploads the specified branch to the remote repository
+
+58. Which command is used to discard changes made to a file in the working directory and return it to the last commit state?
+A) git discard
+B) git revert
+C) git checkout -- <file>
+D) git reset --hard <file>
+
+Answer: C) git checkout -- <file>
+
+59. What is the purpose of git diff --staged?
+A) It shows the differences between the working directory and the staging area
+B) It shows the differences between the staging area and the last commit
+C) It shows the changes in a specific branch
+D) It displays the differences in the commit history
+
+Answer: B) It shows the differences between the staging area and the last commit
+
+60. Which command is used to stage a specific file for commit in Git?
+A) git add <file>
+B) git commit <file>
+C) git push <file>
+D) git stage <file>
+
+Answer: A) git add <file>
+
+61. Which of the following commands is used to view a list of all remote repositories associated with the local repository?
+A) git remotes
+B) git remote list
+C) git remote show
+D) git remote
+
+Answer: C) git remote show
+
+62. What is the purpose of git reflog?
+A) It shows the commit history of the repository
+B) It shows the logs of all references, including branches, HEAD, and rebase changes
+C) It displays the logs of changes in the working directory
+D) It updates the local repository with remote changes
+
+Answer: B) It shows the logs of all references, including branches, HEAD, and rebase changes
+
+63. Which of the following is used to display a specific commit's details?
+A) git show <commit_hash>
+B) git details <commit_hash>
+C) git log <commit_hash>
+D) git show commit <commit_hash>
+
+Answer: A) git show <commit_hash>
+
+64. What does git remote add origin <url> do?
+A) It adds a new remote repository to the local Git repository
+B) It clones a remote repository into the local machine
+C) It renames an existing remote repository
+D) It fetches changes from the remote repository
+
+Answer: A) It adds a new remote repository to the local Git repository
+
+65. What does git stash do?
+A) Saves uncommitted changes to a stack temporarily
+B) Removes the latest commit from the history
+C) Merges changes from a different branch
+D) Applies changes from the staging area to the working directory
+
+Answer: A) Saves uncommitted changes to a stack temporarily
+
+66. Which Git command is used to remove a file from the staging area without deleting it from the working directory?
+A) git rm <file>
+B) git reset <file>
+C) git delete <file>
+D) git undo <file>
+
+Answer: B) git reset <file>
+
+67. Which of the following commands is used to see the differences between the staged and the last commit?
+A) git status
+B) git diff --cached
+C) git diff
+D) git show
+
+Answer: B) git diff --cached
+
+68. Which of the following commands is used to push all local branches to the remote repository?
+A) git push --all
+B) git push --branches
+C) git push all
+D) git push
+
+Answer: A) git push --all
+
+69. Which of the following Git commands is used to undo a commit and leave the changes staged?
+A) git revert <commit>
+B) git reset <commit>
+C) git reset --soft <commit>
+D) git reset --hard <commit>
+
+Answer: C) git reset --soft <commit>
+
+70. What is the command to pull changes from a specific branch on a remote repository?
+A) git pull origin <branch_name>
+B) git fetch origin <branch_name>
+C) git merge origin <branch_name>
+D) git clone origin <branch_name>
+
+Answer: A) git pull origin <branch_name>
+
+71. What is the purpose of the git commit --amend command?
+A) To modify the commit history by editing the last commit
+B) To cancel the last commit
+C) To create a new commit with the same message
+D) To delete a commit from history
+
+Answer: A) To modify the commit history by editing the last commit
+
+72. Which Git command will delete the current branch?
+A) git branch -d <branch_name>
+B) git branch -delete <branch_name>
+C) git rm <branch_name>
+D) git branch --delete <branch_name>
+
+Answer: A) git branch -d <branch_name>
+
+73. What is the purpose of the git clean command?
+A) To remove untracked files from the working directory
+B) To remove tracked files from the working directory
+C) To clean up merge conflicts
+D) To reset the repository to the last commit
+
+Answer: A) To remove untracked files from the working directory
+
+74. Which of the following commands is used to compare changes in the working directory with the staging area?
+A) git diff
+B) git diff --cached
+C) git diff --staged
+D) git show
+
+Answer: A) git diff
+
+75. What does git fetch do?
+A) Downloads changes from the remote repository to the local repository
+B) Downloads changes and merges them into the current branch
+C) Downloads changes and applies them to the working directory
+D) Uploads changes from the local repository to the remote repository
+
+Answer: A) Downloads changes from the remote repository to the local repository
+
+76. Which command is used to switch between different branches in Git?
+A) git switch <branch_name>
+B) git checkout <branch_name>
+C) git change <branch_name>
+D) git set <branch_name>
+
+Answer: B) git checkout <branch_name>
+
+77. Which command is used to remove a remote repository in Git?
+A) git remote delete <remote_name>
+B) git remove <remote_name>
+C) git remote rm <remote_name>
+D) git untrack <remote_name>
+
+Answer: C) git remote rm <remote_name>
+
+78. What is the function of the git ls-files command?
+A) To list all the files in the repository
+B) To show all the files that have been staged
+C) To list untracked files
+D) To show the status of the remote repository
+
+Answer: B) To show all the files that have been staged
+
+79. What does git log --oneline display?
+A) The list of all changes made in the repository
+B) A brief summary of each commit, showing just the commit hash and message
+C) Detailed information of the most recent commit
+D) Only the changes made to the working directory
+
+Answer: B) A brief summary of each commit, showing just the commit hash and message
+
+80. Which command is used to combine two or more commits into one?
+A) git merge
+B) git rebase
+C) git squash
+D) git commit --squash
+
+Answer: B) git rebase
+
+81. What does git log --graph show?
+A) A graphical representation of the commit history
+B) A visual of the commit details
+C) A list of commits in a single line
+D) A summary of the commits from all branches
+
+Answer: A) A graphical representation of the commit history
+
+82. Which command is used to configure a Git user’s email address?
+A) git user --email <email_address>
+B) git config --global user.email "<email_address>"
+C) git setup email <email_address>
+D) git email --set <email_address>
+
+Answer: B) git config --global user.email "<email_address>"
+
+83. Which Git command is used to create a remote repository from a local repository?
+A) git clone
+B) git push --set-upstream origin <branch_name>
+C) git init remote
+D) git create-remote
+
+Answer: B) git push --set-upstream origin <branch_name>
+
+84. What does the git reset --hard command do?
+A) Discards all changes in the working directory and staging area
+B) Removes all commits from the history
+C) Resets the repository to the latest commit
+D) Merges the current changes into the staging area
+
+Answer: A) Discards all changes in the working directory and staging area
+
+85. How can you view the commit logs with a specific author?
+A) git log --author="<author_name>"
+B) git log --commit-author="<author_name>"
+C) git log --author-name="<author_name>"
+D) git log --filter="<author_name>"
+
+Answer: A) git log --author="<author_name>"
+
+86. What does the git status command show?
+A) The status of the remote repository
+B) The status of changes in the working directory and staging area
+C) A list of all branches in the repository
+D) A list of files modified in the latest commit
+
+Answer: B) The status of changes in the working directory and staging area
+
+87. What is the purpose of git blame <file>?
+A) It shows the commit history of the file
+B) It highlights the changes made by each user in a file
+C) It reverts changes to a specific file
+D) It shows the list of contributors to a repository
+
+Answer: B) It highlights the changes made by each user in a file
+88. How do you create a new Git branch from the current branch?
+A) git create branch <branch_name>
+B) git branch <branch_name>
+C) git new branch <branch_name>
+D) git switch -c <branch_name>
+
+Answer: B) git branch <branch_name>
+
+89. Which command is used to push changes to a specific branch in the remote repository?
+A) git push origin <branch_name>
+B) git send <branch_name>
+C) git upload <branch_name>
+D) git commit <branch_name>
+
+Answer: A) git push origin <branch_name>
+
+90. What does git merge --abort do?
+A) Aborts the merge process and restores the repository to its state before the merge
+B) Merges the changes from a specific branch
+C) Commits the changes from a merge
+D) Reverts a specific merge commit
+
+Answer: A) Aborts the merge process and restores the repository to its state before the merge
+
+91. Which Git command is used to configure the default editor for Git?
+A) git config --global core.editor "<editor>"
+B) git set editor <editor>
+C) git edit --global core.editor "<editor>"
+D) git editor <editor>
+
+Answer: A) git config --global core.editor "<editor>"
+
+92. What is the use of the git diff command?
+A) To compare the changes between two commits
+B) To compare changes between the working directory and the staging area
+C) To compare changes between the staging area and the last commit
+D) All of the above
+
+Answer: D) All of the above
+
+93. What does the git diff --name-only command show?
+A) The names of files that have been modified
+B) The changes between two commits
+C) A list of all files in the repository
+D) A list of files with conflicts
+
+Answer: A) The names of files that have been modified
+
+94. Which of the following Git commands will show the commit history in a more detailed format?
+A) git log -p
+B) git log --detailed
+C) git log --full
+D) git history --detailed
+
+Answer: A) git log -p
+
+95. What is the function of the git clone command?
+A) To clone the local repository into another directory
+B) To copy the remote repository to the local machine
+C) To duplicate the current branch
+D) To remove a branch from the local repository
+
+Answer: B) To copy the remote repository to the local machine
+
+96. What does git merge do when there are conflicts?
+A) It automatically resolves the conflicts and merges the changes
+B) It throws an error, prompting the user to manually resolve conflicts
+C) It deletes the conflicting files
+D) It aborts the merge process
+
+Answer: B) It throws an error, prompting the user to manually resolve conflicts
+
+97. Which of the following Git commands is used to check the status of your files?
+A) git check
+B) git status
+C) git verify
+D) git log --check
+
+Answer: B) git status
+
+98. What is the command to show the difference between two commits?
+A) git diff <commit_hash_1> <commit_hash_2>
+B) git compare <commit_hash_1> <commit_hash_2>
+C) git show <commit_hash_1> <commit_hash_2>
+D) git diff --compare <commit_hash_1> <commit_hash_2>
+
+Answer: A) git diff <commit_hash_1> <commit_hash_2>
+
+99. What is a "fast-forward" merge in Git?
+A) A merge where no changes are made and both branches are already in sync
+B) A merge where one branch is directly ahead of the other
+C) A merge where the two branches are manually combined
+D) A merge that deletes the branch after completion
+
+Answer: B) A merge where one branch is directly ahead of the other
+
+100. Which Git command is used to reset a repository to a specific commit and remove changes from the staging area?
+A) git reset <commit>
+B) git reset --hard <commit>
+C) git checkout <commit>
+D) git clean <commit>
+
+Answer: B) git reset --hard <commit>
+
