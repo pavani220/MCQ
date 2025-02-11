@@ -1,0 +1,799 @@
+1. Which of the following is a primary objective of DevOps?
+A) Fast delivery of applications
+B) Manual code deployment
+C) Eliminate collaboration between teams
+D) Centralized development process
+
+Answer: A) Fast delivery of applications
+
+2. Which tool is primarily used for Continuous Integration in DevOps?
+A) Jenkins
+B) Docker
+C) Git
+D) Nagios
+
+Answer: A) Jenkins
+
+3. What is the full form of CI/CD?
+A) Continuous Integration/Continuous Deployment
+B) Continuous Integration/Continuous Delivery
+C) Continuous Integration/Continuous Development
+D) Continuous Implementation/Continuous Deployment
+
+Answer: B) Continuous Integration/Continuous Delivery
+
+4. Which of the following tools is used for container orchestration in DevOps?
+A) Jenkins
+B) Docker
+C) Kubernetes
+D) GitLab
+
+Answer: C) Kubernetes
+
+5. Which of the following is NOT an example of Infrastructure as Code (IaC)?
+A) Terraform
+B) Ansible
+C) Chef
+D) Jenkins
+
+Answer: D) Jenkins
+
+6. Which of the following tools can be used for version control in DevOps?
+A) Docker
+B) Git
+C) Jenkins
+D) Terraform
+
+Answer: B) Git
+
+7. What does the term "containerization" refer to in DevOps?
+A) Running software in virtual machines
+B) Running software in isolated environments using containers
+C) Running software on physical machines only
+D) Running software with cloud support
+
+Answer: B) Running software in isolated environments using containers
+
+8. Which version control system is widely used in DevOps?
+A) Git
+B) SVN
+C) Perforce
+D) CVS
+
+Answer: A) Git
+
+9. Which of the following tools is used for monitoring and logging in DevOps?
+A) Jenkins
+B) Docker
+C) Nagios
+D) GitLab
+
+Answer: C) Nagios
+
+10. Which cloud platform is commonly used in DevOps for cloud infrastructure management?
+A) AWS
+B) Jenkins
+C) GitHub
+D) Nagios
+
+Answer: A) AWS
+
+11. Which of the following is used for configuration management in DevOps?
+A) Docker
+B) Jenkins
+C) Chef
+D) GitLab
+
+Answer: C) Chef
+
+12. Which of the following is NOT an example of container orchestration?
+A) Kubernetes
+B) Docker Swarm
+C) Terraform
+D) Rancher
+
+Answer: C) Terraform
+
+13. Which of the following is a popular DevOps tool for automated testing?
+A) Selenium
+B) Docker
+C) Jenkins
+D) Kubernetes
+
+Answer: A) Selenium
+
+14. What does the acronym "IaC" stand for?
+A) Infrastructure as Code
+B) Infrastructure and Configuration
+C) Intelligent Automation Cloud
+D) Interchangeable Automation Code
+
+Answer: A) Infrastructure as Code
+
+15. Which of the following is a version control system used for managing source code in DevOps?
+A) Docker
+B) Git
+C) Jenkins
+D) Terraform
+
+Answer: B) Git
+
+16. Which DevOps tool is widely used for creating and managing containers?
+A) Kubernetes
+B) Docker
+C) Jenkins
+D) Nagios
+
+Answer: B) Docker
+
+17. Which of the following DevOps principles emphasizes collaboration between development and operations teams?
+A) Continuous Integration
+B) Continuous Deployment
+C) DevOps Culture
+D) Version Control
+
+Answer: C) DevOps Culture
+
+18. What does the acronym "CI" stand for in DevOps?
+A) Continuous Integration
+B) Cloud Integration
+C) Continuous Infrastructure
+D) Cloud Infrastructure
+
+Answer: A) Continuous Integration
+
+19. Which of the following tools is used for automating deployment in DevOps?
+A) Jenkins
+B) Docker
+C) Git
+D) Kubernetes
+
+Answer: A) Jenkins
+
+20. Which of the following is a major benefit of using Continuous Integration (CI) in DevOps?
+A) Reduced development time
+B) Increased manual testing
+C) Centralized server management
+D) Faster code reviews
+
+Answer: A) Reduced development time
+
+21. Which of the following is a configuration management tool used in DevOps?
+A) Docker
+B) Jenkins
+C) Ansible
+D) GitLab
+
+Answer: C) Ansible
+
+22. Which of the following is used to create and manage virtual environments in DevOps?
+A) Docker
+B) Kubernetes
+C) Jenkins
+D) Terraform
+
+Answer: A) Docker
+
+23. Which tool is primarily used for Infrastructure as Code (IaC)?
+A) Jenkins
+B) Terraform
+C) Docker
+D) Kubernetes
+
+Answer: B) Terraform
+
+24. Which of the following is a continuous integration tool?
+A) Docker
+B) Jenkins
+C) GitHub
+D) Nagios
+
+Answer: B) Jenkins
+
+25. Which of the following tools is used to implement monitoring and logging in DevOps?
+A) Jenkins
+B) Git
+C) Nagios
+D) Chef
+
+Answer: C) Nagios
+
+26. Which of the following DevOps tools helps with orchestration and scheduling of containers?
+A) Docker
+B) Kubernetes
+C) Jenkins
+D) Terraform
+
+Answer: B) Kubernetes
+
+27. Which of the following is a popular CI/CD tool used for automating deployments?
+A) Jenkins
+B) Terraform
+C) Chef
+D) Nagios
+
+Answer: A) Jenkins
+
+28. Which of the following best defines a microservices architecture?
+A) A single monolithic application
+B) A set of independently deployable services
+C) A large database system
+D) A collection of static websites
+
+Answer: B) A set of independently deployable services
+
+29. Which of the following is NOT a benefit of DevOps?
+A) Faster delivery of applications
+B) Reduced collaboration between teams
+C) Automation of testing and deployment
+D) Enhanced collaboration between teams
+
+Answer: B) Reduced collaboration between teams
+
+30. Which of the following tools is used to manage infrastructure configurations in a declarative way?
+A) Chef
+B) Docker
+C) Kubernetes
+D) Jenkins
+
+Answer: A) Chef
+
+31. Which of the following DevOps tools can be used for creating immutable infrastructure?
+A) Docker
+B) Jenkins
+C) Terraform
+D) Kubernetes
+
+Answer: C) Terraform
+
+32. Which of the following is the primary purpose of Kubernetes?
+A) Version control management
+B) Container orchestration
+C) Continuous integration
+D) Continuous testing
+
+Answer: B) Container orchestration
+
+33. Which of the following is a tool used for automated provisioning of cloud infrastructure?
+A) Ansible
+B) Terraform
+C) Docker
+D) Git
+
+Answer: B) Terraform
+
+34. Which DevOps tool is used for log aggregation and visualization?
+A) Jenkins
+B) Splunk
+C) Docker
+D) Kubernetes
+
+Answer: B) Splunk
+
+35. Which of the following DevOps tools is used for managing containers?
+A) Git
+B) Jenkins
+C) Docker
+D) Terraform
+
+Answer: C) Docker
+
+36. Which of the following is used for configuration management and automation in DevOps?
+A) Jenkins
+B) Chef
+C) Docker
+D) GitLab
+
+Answer: B) Chef
+
+37. Which of the following describes "Continuous Testing" in a DevOps pipeline?
+A) Automating the build process
+B) Automatically deploying the application to production
+C) Running automated tests as part of the CI/CD pipeline
+D) Monitoring the application in production
+
+Answer: C) Running automated tests as part of the CI/CD pipeline
+
+38. Which of the following tools is commonly used for building and packaging software in a DevOps pipeline?
+A) Jenkins
+B) Docker
+C) Maven
+D) Kubernetes
+
+Answer: C) Maven
+
+39. Which of the following is the main purpose of using containers in DevOps?
+A) To isolate application environments
+B) To store large amounts of data
+C) To improve the speed of the CI/CD pipeline
+D) To automatically scale applications
+
+Answer: A) To isolate application environments
+
+40. Which of the following tools is used for source code management in DevOps?
+A) Docker
+B) Git
+C) Jenkins
+D) Nagios
+
+Answer: B) Git
+
+41. Which of the following is a container runtime used in DevOps?
+A) Docker
+B) Jenkins
+C) Kubernetes
+D) GitLab
+
+Answer: A) Docker
+
+42. Which of the following DevOps tools is used to automate the configuration of servers?
+A) Jenkins
+B) Ansible
+C) Terraform
+D) Docker
+
+Answer: B) Ansible
+
+43. Which of the following best defines "Continuous Deployment" in DevOps?
+A) Automatically deploying code to production only when manually approved
+B) Automatically deploying code to production without manual intervention
+C) Automatically testing code in a staging environment
+D) Automatically checking out code from a version control system
+
+Answer: B) Automatically deploying code to production without manual intervention
+
+44. Which of the following is a key feature of Docker?
+A) Full-stack application deployment
+B) Virtual machine creation
+C) Creating and managing isolated containers
+D) Infrastructure monitoring
+
+Answer: C) Creating and managing isolated containers
+
+45. Which of the following is a CI/CD tool commonly used with GitHub for automated workflows?
+A) Jenkins
+B) Travis CI
+C) Docker
+D) Nagios
+
+Answer: B) Travis CI
+
+46. What is the main purpose of the "Blue/Green Deployment" strategy in DevOps?
+A) To deploy updates to production without downtime by switching between two identical environments
+B) To create two different environments for testing
+C) To monitor the application's performance in production
+D) To enable manual rollback of deployments
+
+Answer: A) To deploy updates to production without downtime by switching between two identical environments
+
+47. Which of the following DevOps tools is used for continuous code quality analysis?
+A) Jenkins
+B) SonarQube
+C) Docker
+D) GitLab
+
+Answer: B) SonarQube
+
+48. Which of the following tools is used for infrastructure provisioning and management in cloud environments?
+A) Docker
+B) Terraform
+C) Git
+D) Kubernetes
+
+Answer: B) Terraform
+
+49. Which of the following is a benefit of "Microservices Architecture"?
+A) Increased complexity
+B) Independent scaling and deployment of services
+C) Monolithic codebase
+D) Single point of failure
+
+Answer: B) Independent scaling and deployment of services
+
+50. Which of the following tools is primarily used for container orchestration in DevOps?
+A) Docker
+B) Kubernetes
+C) Jenkins
+D) GitLab
+
+Answer: B) Kubernetes
+
+51. Which tool is often used for configuration management in DevOps?
+A) Jenkins
+B) Ansible
+C) Docker
+D) GitLab
+
+Answer: B) Ansible
+
+52. What is the primary function of the "Jenkins Pipeline"?
+A) To manage Docker containers
+B) To automate the build, test, and deployment process
+C) To manage infrastructure as code
+D) To monitor application performance
+
+Answer: B) To automate the build, test, and deployment process
+
+53. What does "Docker Compose" do?
+A) Manages multi-container Docker applications
+B) Manages the storage layer for Docker containers
+C) Monitors container performance
+D) Provides a user interface for Docker containers
+
+Answer: A) Manages multi-container Docker applications
+
+54. Which of the following is a cloud-based version control system for source code?
+A) GitLab
+B) GitHub
+C) Bitbucket
+D) All of the above
+
+Answer: D) All of the above
+
+55. Which of the following is the correct order in a typical CI/CD pipeline?
+A) Build → Test → Deploy → Monitor
+B) Test → Deploy → Monitor → Build
+C) Deploy → Monitor → Build → Test
+D) Monitor → Build → Deploy → Test
+
+Answer: A) Build → Test → Deploy → Monitor
+
+56. Which of the following tools can be used for network monitoring in DevOps?
+A) Nagios
+B) Jenkins
+C) Docker
+D) GitLab
+
+Answer: A) Nagios
+
+57. What is the main purpose of using "Load Balancers" in DevOps?
+A) To scale applications horizontally
+B) To monitor application performance
+C) To distribute traffic across multiple servers
+D) To automate the deployment process
+
+Answer: C) To distribute traffic across multiple servers
+
+58. Which of the following is used for deploying applications using containers?
+A) Jenkins
+B) Docker
+C) Kubernetes
+D) All of the above
+
+Answer: D) All of the above
+
+59. Which of the following practices is a key part of DevOps?
+A) Continuous Monitoring
+B) Manual testing
+C) Separate development and operations teams
+D) Single environment for all stages
+
+Answer: A) Continuous Monitoring
+
+60. Which of the following tools is a popular monitoring tool for containers and microservices?
+A) Nagios
+B) Prometheus
+C) Jenkins
+D) GitLab
+
+Answer: B) Prometheus
+
+61. Which of the following is an example of a container registry?
+A) Docker Hub
+B) Jenkins
+C) GitLab
+D) Terraform
+
+Answer: A) Docker Hub
+
+62. What is "Immutable Infrastructure" in the context of DevOps?
+A) Infrastructure that can be manually changed
+B) Infrastructure that is replaced rather than modified
+C) Infrastructure that only supports virtual machines
+D) Infrastructure that cannot be monitored
+
+Answer: B) Infrastructure that is replaced rather than modified
+
+63. Which of the following is the purpose of "Infrastructure as Code" (IaC)?
+A) To manage cloud resources using manual configuration
+B) To automate and version control infrastructure deployment
+C) To monitor the health of applications in production
+D) To use containers for application packaging
+
+Answer: B) To automate and version control infrastructure deployment
+
+64. Which of the following is NOT an example of Continuous Integration (CI) tool?
+A) Jenkins
+B) Bamboo
+C) Docker
+D) Travis CI
+
+Answer: C) Docker
+
+65. Which of the following is a primary benefit of using containerization in DevOps?
+A) Portability of applications across environments
+B) Decreased application performance
+C) Inability to scale applications
+D) Dependency on a single environment
+
+Answer: A) Portability of applications across environments
+
+66. Which of the following is a key function of a "DevOps Dashboard"?
+A) To visualize application performance
+B) To store source code
+C) To provide a user interface for infrastructure provisioning
+D) To monitor the status of production deployments
+
+Answer: D) To monitor the status of production deployments
+
+67. Which of the following is used for managing virtualized environments in DevOps?
+A) Docker
+B) Jenkins
+C) VMware
+D) Git
+
+Answer: C) VMware
+
+68. What does the "Rolling Update" strategy in deployment mean?
+A) Replacing the old version of an application with the new version in a controlled manner
+B) Deploying the new version of the application in a single step
+C) Continuously testing the application in the staging environment
+D) Rolling back to the previous version after a failed deployment
+
+Answer: A) Replacing the old version of an application with the new version in a controlled manner
+
+69. Which of the following is a key concept of Agile development within the DevOps lifecycle?
+A) Short iterative cycles with constant feedback
+B) Long-term planning with minimal feedback
+C) Lack of collaboration between teams
+D) Manual deployment processes
+
+Answer: A) Short iterative cycles with constant feedback
+
+70. Which of the following tools is used for automated container orchestration?
+A) Docker
+B) Kubernetes
+C) Jenkins
+D) Prometheus
+
+Answer: B) Kubernetes
+
+71. Which of the following is a tool used for testing in a CI/CD pipeline?
+A) JUnit
+B) Maven
+C) Docker
+D) Kubernetes
+
+Answer: A) JUnit
+
+72. Which tool can be used for managing infrastructure across multiple cloud providers in DevOps?
+A) Terraform
+B) Jenkins
+C) Ansible
+D) GitLab
+
+Answer: A) Terraform
+
+73. Which of the following tools is used for container orchestration and management?
+A) Jenkins
+B) Kubernetes
+C) Docker
+D) GitLab
+
+Answer: B) Kubernetes
+
+74. Which of the following strategies is a best practice for "Infrastructure as Code" (IaC)?
+A) Manual server configurations
+B) Keeping infrastructure changes in version control
+C) Deploying infrastructure without testing
+D) Using a single cloud provider only
+
+Answer: B) Keeping infrastructure changes in version control
+
+75. Which of the following is a primary function of a DevOps engineer?
+A) Writing code for applications
+B) Monitoring application performance
+C) Managing version control systems
+D) Managing both development and operations pipelines
+
+Answer: D) Managing both development and operations pipelines
+
+76. Which of the following is a key benefit of using "Microservices Architecture" in DevOps?
+A) Easier deployment of entire applications
+B) Increased complexity and difficulty of scaling
+C) Independent scaling and management of services
+D) Difficulty in monitoring services
+
+Answer: C) Independent scaling and management of services
+
+77. Which of the following tools can be used to automate the testing of infrastructure?
+A) Terraform
+B) Ansible
+C) Test Kitchen
+D) Jenkins
+
+Answer: C) Test Kitchen
+
+78. Which of the following DevOps tools is used for code review and collaboration?
+A) GitLab
+B) Jenkins
+C) Kubernetes
+D) Prometheus
+
+Answer: A) GitLab
+
+79. Which of the following is NOT a typical characteristic of a "DevOps Culture"?
+A) High collaboration between teams
+B) Continuous feedback loops
+C) Frequent manual interventions in processes
+D) Automation of repetitive tasks
+
+Answer: C) Frequent manual interventions in processes
+
+80. Which of the following tools is primarily used for "Continuous Monitoring"?
+A) Jenkins
+B) Nagios
+C) Kubernetes
+D) Docker
+
+Answer: B) Nagios
+
+81. What is the role of "CI/CD pipelines" in DevOps?
+A) To manually deploy code to production
+B) To automate the process of building, testing, and deploying code
+C) To monitor the network performance
+D) To manage container environments
+
+Answer: B) To automate the process of building, testing, and deploying code
+
+82. Which of the following is a container orchestration tool?
+A) Jenkins
+B) GitLab
+C) Kubernetes
+D) Nagios
+
+Answer: C) Kubernetes
+
+83. What is the role of a "Container Registry" in DevOps?
+A) To store container images for easy access and distribution
+B) To monitor container performance
+C) To automate application deployments
+D) To manage network traffic to containers
+
+Answer: A) To store container images for easy access and distribution
+
+84. Which of the following practices allows teams to release software faster with reduced risk?
+A) Continuous Delivery
+B) Traditional Deployment
+C) Manual Configuration
+D) Single Deployment
+
+Answer: A) Continuous Delivery
+
+85. Which of the following tools is used to automate deployment in the cloud?
+A) Jenkins
+B) Ansible
+C) Terraform
+D) Docker
+
+Answer: C) Terraform
+
+86. Which of the following is a primary benefit of implementing Continuous Integration (CI)?
+A) Avoids automated testing
+B) Reduces development time
+C) Allows manual deployments only
+D) Increases integration risks
+
+Answer: B) Reduces development time
+
+87. What is the main function of "Kubernetes" in a DevOps pipeline?
+A) Managing containerized applications
+B) Managing source code version control
+C) Monitoring infrastructure performance
+D) Managing cloud environments
+
+Answer: A) Managing containerized applications
+
+88. Which of the following is an example of a "Cloud-Native" technology in DevOps?
+A) Docker
+B) Kubernetes
+C) AWS Lambda
+D) All of the above
+
+Answer: D) All of the above
+
+89. Which of the following is the key advantage of using "Infrastructure as Code" (IaC)?
+A) Reduced cost of server hardware
+B) Automation and version control of infrastructure configuration
+C) Eliminating the need for cloud environments
+D) Manual configuration of servers
+
+Answer: B) Automation and version control of infrastructure configuration
+
+90. Which of the following DevOps tools is used for log management and monitoring?
+A) Jenkins
+B) Docker
+C) ELK Stack (Elasticsearch, Logstash, Kibana)
+D) Terraform
+
+Answer: C) ELK Stack (Elasticsearch, Logstash, Kibana)
+
+91. Which of the following tools can be used for continuous code quality analysis?
+A) SonarQube
+B) Jenkins
+C) GitLab
+D) Docker
+
+Answer: A) SonarQube
+
+92. Which of the following is NOT part of the "DevOps Lifecycle"?
+A) Continuous Integration
+B) Continuous Testing
+C) Continuous Learning
+D) Continuous Maintenance
+
+Answer: C) Continuous Learning
+
+93. Which of the following is an example of a monitoring tool used in DevOps?
+A) Prometheus
+B) GitHub
+C) Kubernetes
+D) Jenkins
+
+Answer: A) Prometheus
+
+94. Which of the following practices is associated with the "Shift-Left Testing" concept in DevOps?
+A) Delaying testing until the final stages of development
+B) Testing earlier in the development cycle to catch bugs early
+C) Using automated testing only in production
+D) Ignoring testing during the development process
+
+Answer: B) Testing earlier in the development cycle to catch bugs early
+
+95. Which of the following is used to create and manage containers in DevOps?
+A) Jenkins
+B) Docker
+C) Kubernetes
+D) GitLab
+
+Answer: B) Docker
+
+96. Which of the following strategies is used in DevOps to improve collaboration between developers and operations teams?
+A) Working in silos
+B) Implementing "DevOps as a Service"
+C) Shared responsibility for both development and operations
+D) Delegating responsibilities to separate teams
+
+Answer: C) Shared responsibility for both development and operations
+
+97. What does "Serverless" architecture refer to in the context of DevOps?
+A) Running software without the need for servers
+B) Using virtual machines for infrastructure
+C) Managing containers on physical servers
+D) Running applications in Docker containers
+
+Answer: A) Running software without the need for servers
+
+98. Which of the following tools is used for automating the build and deployment of containerized applications?
+A) Jenkins
+B) Docker Compose
+C) GitLab
+D) Terraform
+
+Answer: B) Docker Compose
+
+99. Which of the following is a primary benefit of using "Version Control" in DevOps?
+A) Storing binary files
+B) Tracking changes to code and collaborating with teams
+C) Deploying applications to production
+D) Monitoring performance metrics
+
+Answer: B) Tracking changes to code and collaborating with teams
+
+100. Which of the following DevOps tools is used for managing source code repositories?
+A) Git
+B) Docker
+C) Jenkins
+D) Kubernetes
+
+Answer: A) Git
